@@ -7,6 +7,6 @@ Namespaces, classes, fonctions membres, stdio streams, listes d’initialisation
 
 Allocation mémoire, pointeurs sur membres, références, switch instruction
 
-*CPP0*
+*CPP02*
 
 Polymorphisme ad-hoc, surcharge d’opérateurs et forme canonique
