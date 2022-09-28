@@ -14,3 +14,7 @@ Polymorphisme ad-hoc, surcharge d’opérateurs et forme canonique
 *CPP03*
 
 Héritage
+
+*CPP04*
+
+Polymorphisme par sous-typage, classes abstraites, interfaces
