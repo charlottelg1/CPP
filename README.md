@@ -11,6 +11,6 @@ Allocation mémoire, pointeurs sur membres, références, switch instruction
 
 Polymorphisme ad-hoc, surcharge d’opérateurs et forme canonique
 
-*CPP02*
+*CPP03*
 
 Héritage
