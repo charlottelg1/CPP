@@ -22,3 +22,7 @@ Polymorphisme par sous-typage, classes abstraites, interfaces
 *CPP05*
 
 Répétitions et exceptions
+
+*CPP06*
+
+C++ casts
