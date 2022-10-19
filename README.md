@@ -26,3 +26,7 @@ Répétitions et exceptions
 *CPP06*
 
 C++ casts
+
+*CPP07*
+
+C++ templates
