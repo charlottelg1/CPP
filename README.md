@@ -30,3 +30,7 @@ C++ casts
 *CPP07*
 
 C++ templates
+
+*CPP08*
+
+Containers templates, itérateurs, algorithmes
